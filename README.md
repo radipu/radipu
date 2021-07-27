@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **software development**
 
-- 🌱 I’m currently learning **Angular, VueJS, TypeSCript**
+- 🌱 I’m currently learning **Angular, VueJS, TypeScript**
 
 - 📄 Know about my experiences [https://radipu.me/](https://radipu.me/)
 
