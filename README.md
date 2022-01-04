@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohul Amin Mohammad Dipu</h1>
-<h3 align="center">A passionate software engineer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radipu&label=Profile%20views&color=0e75b6&style=flat" alt="radipu" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/radipu" target="blank"><img src="https://img.shields.io/twitter/follow/radipu?logo=twitter&style=for-the-badge" alt="radipu" /></a> </p>
 
-- 🔭 I’m currently working on **software development**
+- 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **Angular, VueJS, TypeScript**
 
@@ -38,7 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radipu&show_icons=true&locale=en&layout=compact" alt="radipu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radipu&show_icons=true&locale=en" alt="radipu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=radipu&show_icons=true&locale=en" alt="radipu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radipu&" alt="radipu" /></p>
 
