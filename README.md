@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://radipu.me/images/Do%20Something%20Great.jpeg" alt="radipu" /> </p>
+
 <h1 align="center">Hi 👋, I'm Rohul Amin Mohammad Dipu</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
