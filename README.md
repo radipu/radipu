@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radipu" alt="radipu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/radipu" target="blank"><img src="https://img.shields.io/twitter/follow/radipu?logo=twitter&style=for-the-badge" alt="radipu" /></a> </p>
+<!--<p align="left"> <a href="https://facebook.com/radipu13" target="_blank"><img src="https://img.shields.io/twitter/follow/radipu?logo=twitter&style=for-the-badge" alt="radipu" /></a> </p>-->
 
 - 🔭 I’m currently working on **Software Development**
 
