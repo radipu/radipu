@@ -46,6 +46,11 @@
 📆 Feb 4, 2021 - Jun 25, 2021\
 📍 **OurEdu** - Dhaka, Bangladesh
 
+ ## Education
+
+- 📖 **Bachelor of Science in Computer Science and Technology**\
+📍 **International University of Business Agriculture and Technology** - Sector-10, Uttara Model Town, Dhaka, Bangladesh
+  
 <!--## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
