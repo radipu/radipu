@@ -22,14 +22,16 @@
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 
 - 👨‍💻 **Software Engineer**\
 📆 Jan 25, 2022 - present\
 📍 **CureTech** - Dhaka, Bangladesh
   
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />  
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-green?&logo=mysql" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 
 - 👨‍💻 **Software Engineer**\
@@ -37,8 +39,10 @@
 📍 **Ginilab Limited** - Sunderland, UK
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://badges.aleen42.com/src/javascript.svg" />
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
@@ -48,7 +52,7 @@
 
  ## Education
 
-- 📖 **Bachelor of Science in Computer Science and Technology**\
+- 📖 **Bachelor of Science in Computer Science and Engineering**\
 📍 **International University of Business Agriculture and Technology** - Sector-10, Uttara Model Town, Dhaka, Bangladesh
   
 <!--## Skills
