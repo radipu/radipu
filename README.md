@@ -52,8 +52,7 @@
 
  ## Education
 
-- 📖 **Bachelor of Science in Computer Science and Engineering**\
-📍 **International University of Business Agriculture and Technology** - Sector-10, Uttara Model Town, Dhaka, Bangladesh
+- 📖 **Bachelor of Science in Computer Science and Engineering**
   
 <!--## Skills
 
