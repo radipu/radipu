@@ -50,6 +50,17 @@
 📆 Feb 4, 2021 - Jun 25, 2021\
 📍 **OurEdu** - Dhaka, Bangladesh
 
+ ## Projects
+  
+  - Taja Bajar
+  - EZCar
+  - FN
+  - Restaurant Management System
+  - Account Management System
+  - Library Management System
+  - Personal Portfolio Website
+  - Personal Graphics Design Website
+  
  ## Education
 
 - 📖 **Bachelor of Science in Computer Science and Engineering**
