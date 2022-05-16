@@ -22,6 +22,13 @@
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=badge&logo=amazon-aws&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MySQL-green?&logo=mysql" />
+<img align="right" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 
 - 👨‍💻 **Software Engineer**\
@@ -39,7 +46,7 @@
 📍 **Ginilab Limited** - Sunderland, UK
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://badges.aleen42.com/src/javascript.svg" />
+<img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -50,16 +57,18 @@
 📆 Feb 4, 2021 - Jun 25, 2021\
 📍 **OurEdu** - Dhaka, Bangladesh
 
- ## Projects
+ ## Projects At A Glance
   
-  - Taja Bajar
-  - EZCar
-  - FN
-  - Restaurant Management System
-  - Account Management System
-  - Library Management System
-  - Personal Portfolio Website
-  - Personal Graphics Design Website
+|S/N| Project Name | Technologies  |
+| :---: | :---     |  :---      |
+|1| Taja Bajar ([Live](https://tajabajar.com)) | ![aws](https://img.shields.io/badge/AWS-%23FF9900.svg?style=badge&logo=amazon-aws&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white) |
+|2| EZCar ([Live](https://ezcar.sale)) | ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white)|
+|3| FN ([Live](https://farianur.com))  | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+|4| Restaurant Management System  |  ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white) ![.net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) |
+|5| Account Management System | ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white") ![.net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![sqlserver](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) |
+|6| Library Management System | ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white") ![.net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![sqlserver](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) |
+|7| Personal Portfolio Website ([Live](https://radipu.me)) | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+|8| Personal Graphics Design Website ([Live](https://graphics.radipu.me)) | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | |
   
  ## Education
 
