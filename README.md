@@ -40,6 +40,7 @@
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/DevExpress-FF5722?style=badge&logo=devexpress&logoColor=black" />
 
 - 👨‍💻 **Software Engineer**\
 📆 Aug 1, 2021 - Jan 24, 2022\
@@ -52,7 +53,6 @@
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/DevExpress-FF5722?style=badge&logo=devexpress&logoColor=black" />
 
 - 👨‍💻 **Software Engineer**\
 📆 Feb 4, 2021 - Jun 25, 2021\
