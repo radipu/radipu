@@ -178,8 +178,8 @@
 
 ---
 
-<p align="left"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radipu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+<p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radipu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="radipu" bg_color=#808080/></p>
 
 <br>
@@ -188,4 +188,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radipu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="radipu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radipu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="radipu" /></p>-->
+
+[![Bugahontas' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=radipu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)](https://github.com/radipu) | [![Top Langs](https://github-readme-stats.vercel.app/api?username=radipu&show_icons=true&locale=en&theme=chartreuse-dark)](https://github.com/radipu) | [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=radipu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/radipu)
+| ----------- | ------------ | ------------ |
