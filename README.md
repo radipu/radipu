@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://radipu.me/](https://radipu.me/)
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 My Resume</summary>
 
 
 ## Experience
