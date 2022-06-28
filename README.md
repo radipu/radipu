@@ -34,6 +34,8 @@
 <img align="right" src="https://img.shields.io/badge/MySQL-green?&logo=mysql" />
 <img align="right" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=badge&logo=.net&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
 
 - 👨‍💻 **Software Engineer**\
 📆 Jan 25, 2022 - present\
