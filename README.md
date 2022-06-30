@@ -120,6 +120,7 @@
 <a href="https://instagram.com/radipu13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radipu13" height="30" width="40" /></a>
 <a href="https://www.behance.net/radipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="radipu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/radipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="radipu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/radipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="radipu" height="30" width="40" /></a>
 </p>
 
 ---
@@ -198,5 +199,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radipu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="radipu" /></p>-->
 
-[![radipu' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=radipu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)](https://github.com/radipu) | [![Top Langs](https://github-readme-stats.vercel.app/api?username=radipu&show_icons=true&locale=en&theme=chartreuse-dark)](https://github.com/radipu) | [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=radipu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/radipu)
+[![radipu' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=radipu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)](https://github.com/radipu) | [![Top Langs](https://github-readme-stats.vercel.app/api?username=radipu&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/radipu) | [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=radipu&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/radipu)
 | ----------- | ------------ | ------------ |
+
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/radipu)
