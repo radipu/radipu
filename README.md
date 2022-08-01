@@ -27,6 +27,19 @@
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=badge&logo=.net&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
+
+- 👨‍💻 **Software Developer**\
+📆 Aug 02, 2022 - present\
+📍 **Gulf State Software** - Dhaka, Bangladesh
+
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=badge&logo=amazon-aws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white" />
@@ -38,7 +51,7 @@
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
 
 - 👨‍💻 **Software Engineer**\
-📆 Jan 25, 2022 - present\
+📆 Jan 25, 2022 - Jul 14, 2022\
 📍 **CureTech** - Dhaka, Bangladesh
   
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
@@ -64,18 +77,23 @@
 📆 Feb 4, 2021 - Jun 25, 2021\
 📍 **OurEdu** - Dhaka, Bangladesh
 
+- 👨‍💻 **Head of IT**\
+📆 Jan 9, 2015 - Jan 31, 2021\
+📍 **Bangladesh Stodu Forum** - Dhaka, Bangladesh
+
  ## Projects At A Glance
   
 |S/N| Project Name | Technologies  | Company  |
 | :---: | :---     |  :---      |  :---      |
-|1| Taja Bajar ([Live](https://tajabajar.com)) | ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![aws](https://img.shields.io/badge/AWS-%23FF9900.svg?style=badge&logo=amazon-aws&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | CureTech |
-|2| EZCar ([Live](https://ezcar.sale)) | ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white) ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | CureTech |
-|3| FN ([Live](https://farianur.com))  | ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white) ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | CureTech |
-|4| Restaurant Management System  | ![devexpress](https://img.shields.io/badge/DevExpress-FF5722?style=badge&logo=devexpress&logoColor=black) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white) ![.net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) | Ginilab |
-|5| Account Management System | ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white") ![.netcore](https://img.shields.io/badge/.NET%20Core-5C2D91?style=badge&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white") | OurEdu |
-|6| Library Management System | ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white") ![.netcore](https://img.shields.io/badge/.NET%20Core-5C2D91?style=badge&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white") | Personal |
-|7| Personal Portfolio Website ([Live](https://radipu.me)) | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | Personal |
-|8| Personal Graphics Design Website ([Live](https://graphics.radipu.me)) | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | Personal |
+|1| Bachao ([Live](https://bachao.com.bd)) ([App](https://play.google.com/store/apps/details?id=com.Bachao.Life.Foundation)) | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&logo=angular&logoColor=white) ![.net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white") ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) | CureTech |
+|2| Taja Bajar ([Live](https://tajabajar.com)) ([App](https://play.google.com/store/apps/details?id=com.tajabajar.app)) | ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![aws](https://img.shields.io/badge/AWS-%23FF9900.svg?style=badge&logo=amazon-aws&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | CureTech |
+|3| EZCar ([Live](https://ezcar.sale)) | ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white) ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | CureTech |
+|4| FN ([Live](https://farianur.com))  | ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white) ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | CureTech |
+|5| Restaurant Management System  | ![devexpress](https://img.shields.io/badge/DevExpress-FF5722?style=badge&logo=devexpress&logoColor=black) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white) ![.net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) | Ginilab |
+|6| Account Management System | ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white") ![.netcore](https://img.shields.io/badge/.NET%20Core-5C2D91?style=badge&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white") | OurEdu |
+|7| Library Management System | ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white") ![.netcore](https://img.shields.io/badge/.NET%20Core-5C2D91?style=badge&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white") | Personal |
+|8| Personal Portfolio Website ([Live](https://radipu.me)) | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | Personal |
+|9| Personal Graphics Design Website ([Live](https://graphics.radipu.me)) | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | Personal |
   
  ## Education
 
