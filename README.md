@@ -222,7 +222,7 @@
 | ----------- | ------------ | ------------ |
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=radipu&theme=chartreuse-dark)
-![GitHub metrics](https://metrics.lecoq.io/radipu)
+
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
