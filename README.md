@@ -222,6 +222,13 @@
 | ----------- | ------------ | ------------ |
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=radipu&theme=chartreuse-dark)
+---
+<div align="center">
+<p align="center">&nbsp;Competitive Programming</p><br></div>
+<p float="left">
+<img height="200em" src="https://leetcard.jacoblin.cool/radipu?theme=light&font=Karma&ext=contest&theme=dark" />
+<!--<img height="200em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />-->
+</p>
 
 ---
 ### ✍️ Random Dev Quote
