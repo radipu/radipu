@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rohul Amin Mohammad Dipu</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=radipu&label=Profile%20views&color=0e75b6&style=flat" alt="radipu" /> </p>
 
