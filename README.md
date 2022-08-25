@@ -25,13 +25,12 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=badge&logo=.net&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/azure-%230072C6.svg?&logo=microsoftazure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
 
 - 👨‍💻 **Software Developer**\
