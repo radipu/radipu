@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rohul Amin Mohammad Dipu</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&color=29F792&center=true&vCenter=true&width=435&lines=A+passionate+Software+Engineer;.NET+Developer;Full+Stack+Web+App+Developer;Designer;Freelancer;Author;Techie" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&color=29F792&center=true&vCenter=true&width=435&lines=A+passionate+Software+Engineer;.NET+Developer;Full+Stack+Web+and+Desktop+App+Developer;Designer;Freelancer;Author;Techie" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p>
