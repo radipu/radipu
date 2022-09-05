@@ -95,7 +95,7 @@
 
 - 👨‍💻 **Head of IT**\
 📆 Jan 9, 2015 - Jan 31, 2021\
-📍 **Bangladesh Stodu Forum** - Dhaka, Bangladesh
+📍 **Bangladesh Study Forum** - Dhaka, Bangladesh
 
  ## Projects At A Glance
   
