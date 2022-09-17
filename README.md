@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rohul Amin Mohammad Dipu</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&color=29F792&center=true&vCenter=true&width=435&lines=A+passionate+Software+Engineer;.NET+Developer;Full+Stack+Web+and+Desktop+App+Developer;Designer;Freelancer;Author;Techie" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&color=29F792&center=true&vCenter=true&width=435&lines=Software+Engineer;.NET+Developer;Full+Stack+Web+and+Desktop+App+Developer;Designer;Freelancer;Author;Techie" alt="Typing Designation" /></a>
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="100" /></p>
@@ -51,7 +51,7 @@
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
 
 - 👨‍💻 **Software Developer**\
-📆 Aug 02, 2022 - present\
+📆 Aug 2022 - present\
 📍 **Gulf State Software** - Dhaka, Bangladesh
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
@@ -67,7 +67,7 @@
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
 
 - 👨‍💻 **Software Engineer**\
-📆 Jan 25, 2022 - Jul 14, 2022\
+📆 Jan 2022 - Jul 2022\
 📍 **CureTech** - Dhaka, Bangladesh
   
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
@@ -78,7 +78,7 @@
 <img align="right" src="https://img.shields.io/badge/DevExpress-FF5722?style=badge&logo=devexpress&logoColor=black" />
 
 - 👨‍💻 **Software Engineer**\
-📆 Aug 1, 2021 - Jan 24, 2022\
+📆 Aug 2021 - Jan 2022\
 📍 **Ginilab Limited** - Sunderland, UK
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
@@ -90,11 +90,11 @@
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
 - 👨‍💻 **Software Engineer**\
-📆 Feb 4, 2021 - Jun 25, 2021\
+📆 Feb 2021 - Jun 2021\
 📍 **OurEdu** - Dhaka, Bangladesh
 
 - 👨‍💻 **Head of IT**\
-📆 Jan 9, 2015 - Jan 31, 2021\
+📆 Jan 2015 - Jan 2021\
 📍 **Bangladesh Study Forum** - Dhaka, Bangladesh
 
  ## Projects At A Glance
