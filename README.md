@@ -43,9 +43,10 @@
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens" />
 <img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/azure-%230072C6.svg?&logo=microsoftazure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
@@ -101,7 +102,7 @@
   
 |S/N| Project Name | Technologies  | Company  |
 | :---: | :---     |  :---      |  :---      |
-|1| Warehouse Management ([Live](https://a.n-1.info)) | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&logo=angular&logoColor=white) ![.net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens) ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white") | Gulf State Software |
+|1| Warehouse Management ([Live](https://a.n-1.info)) | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&logo=angular&logoColor=white) ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![.net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens) ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white") | Gulf State Software |
 |2| Bachao ([Live](https://bachao.com.bd)) ([App](https://play.google.com/store/apps/details?id=com.Bachao.Life.Foundation)) | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&logo=angular&logoColor=white) ![.net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white") ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) | CureTech |
 |3| Taja Bajar ([Live](https://tajabajar.com)) ([App](https://play.google.com/store/apps/details?id=com.tajabajar.app)) | ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![aws](https://img.shields.io/badge/AWS-%23FF9900.svg?style=badge&logo=amazon-aws&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | CureTech |
 |4| EZCar ([Live](https://ezcar.sale)) | ![laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=badge&logo=laravel&logoColor=white) ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | CureTech |
