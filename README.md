@@ -166,7 +166,8 @@
 <div align="center">
 <p align="center"><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" height="15" width="15" />&nbsp;<i><b>Competitive Programming</b></i></p><br>
 <p float="left">
-<img height="200em" src="https://leetcard.jacoblin.cool/radipu?theme=light&font=Karma&ext=contest&theme=dark" />
+<img height="200em" src="https://leetcard.jacoblin.cool/radipu?theme=dark&font=Comic%20Neue&ext=contest" />
+<!--<img height="200em" src="https://leetcard.jacoblin.cool/radipu?theme=light&font=Karma&ext=contest&theme=dark" />-->
 <!--<img height="200em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />-->
 </p>
 
