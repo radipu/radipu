@@ -116,7 +116,8 @@
   
  ## Education
 
-- 📖 **Bachelor of Science in Computer Science and Engineering**
+- 📖 **Master of Science in Innovation and Technology Management** - ISM University of Management and Economics
+- 📖 **Bachelor of Science in Computer Science and Engineering** - International University of Business Agriculture and Technology
 
 </details>
 
