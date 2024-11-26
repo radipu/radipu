@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://radipu.me/images/Do%20Something%20Great.jpeg" alt="radipu" /> </p>
+<p align="left"> <img src="https://radipu.com/images/Do%20Something%20Great.jpeg" alt="radipu" /> </p>
 
 <h1 align="center">Hi 👋, I'm Rohul Amin Mohammad Dipu</h1>
 <p align="center">
@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **Ideas**
 
-- 📄 Know about my experiences [https://radipu.me/](https://radipu.me/)
+- 📄 Know about my experiences [https://radipu.com/](https://radipu.com/)
 
 - ⚡ Fun fact **Think Something Different.**
 
@@ -111,8 +111,8 @@
 |7| Restaurant Management System  | ![devexpress](https://img.shields.io/badge/DevExpress-FF5722?style=badge&logo=devexpress&logoColor=black) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white) ![.net](https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-green?&logo=mysql) ![slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) | Ginilab |
 |8| Account Management System | ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white") ![.netcore](https://img.shields.io/badge/.NET%20Core-5C2D91?style=badge&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white") | OurEdu |
 |9| Library Management System | ![bootstrap](https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![csharp](https://img.shields.io/badge/CSharp-239120?logo=c-sharp&logoColor=white") ![.netcore](https://img.shields.io/badge/.NET%20Core-5C2D91?style=badge&logo=.net&logoColor=white) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![sqlserver](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white") | Personal |
-|10| Personal Portfolio Website ([Live Preview](https://radipu.me)) | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | Personal |
-|11| Personal Graphics Design Website ([Live Preview](https://graphics.radipu.me)) | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | Personal |
+|10| Personal Portfolio Website ([Live Preview](https://radipu.com)) | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | Personal |
+|11| Personal Graphics Design Website ([Live Preview](https://graphics.radipu.com)) | ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E) ![github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white) | Personal |
   
  ## Education
 
