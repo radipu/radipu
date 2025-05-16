@@ -52,7 +52,7 @@
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?&logo=.net&logoColor=white" />
 
 - 👨‍💻 **Software Developer**\
-📆 Aug 2022 - present\
+📆 Aug 2022 - Apr 2025\
 📍 **Gulf State Software** - Dhaka, Bangladesh
 
 <img align="right" src="https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white" />
